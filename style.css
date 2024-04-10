@@ -63,4 +63,8 @@ p {
         display: block;
         margin-bottom: 0.5rem;
     }
+
+    pre {
+        font-size:2px;
+    }
 }
