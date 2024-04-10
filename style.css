@@ -8,13 +8,19 @@
     box-sizing: border-box;
 }
 
-body, h1, h2, p {
+body, h1, h2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #010101;
+}
+
+p {
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: 'Press Start 2P', cursive;
     background-color: #010101;
     color: #fff;
     line-height: 1.4;
